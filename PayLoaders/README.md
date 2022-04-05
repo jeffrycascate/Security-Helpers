@@ -5,7 +5,7 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 # Payloader 01
  Requirement
 
-| Characteristic | Segundo encabezado |
+| Characteristic | Value |
 | ------------- | ------------- |
 | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
