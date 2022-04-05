@@ -13,8 +13,8 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 | Characteristic | Value |
 | ------------- | ------------- |
 | System Operating  | Linux base  |
-| Libraries  | Python  |
-| Software or Addings  | HandleBars, BurpSuite   |
+| Libraries  | Python, HandleBars  |
+| Software  |  BurpSuite   |
 
 Steps
 
