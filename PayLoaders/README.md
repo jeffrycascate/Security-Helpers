@@ -5,7 +5,7 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 # Payloader 01
 
  Description.
- This is "payloader" create reverse shell, that use send command by terminal, with use "nc" that catch command of return.
+ This is "payloader" create reverse shell in base that concept called "Server Side Template Injection" and this use adding named "HandleBars", that use send command by terminal, with use "nc" that catch command of return.
 
  Requirement
 
@@ -13,7 +13,7 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 | ------------- | ------------- |
 | System Operating  | Linux base  |
 | Libraries  | Python  |
-| Software or Addings  | Python  |
+| Software or Addings  | HandleBars  |
 
 
 
