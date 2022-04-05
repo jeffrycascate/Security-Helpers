@@ -14,10 +14,12 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 | ------------- | ------------- |
 | System Operating  | Linux base  |
 | Libraries  | Python  |
-| Software or Addings  | HandleBars  |
+| Software or Addings  | HandleBars, BurpSuite   |
 
 Steps
 
+1. Run BurpSuite.
+2. Go section "Proxy "
 
 
  Note: You can use machine called "Bike" that by Hack the Box
