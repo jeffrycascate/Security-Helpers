@@ -19,7 +19,7 @@ In this sections, i going to talk about payloaders that use or i improve, maybe 
 Steps
 
 1. Run BurpSuite.
-2. Go section "Proxy"
+2. Go to section "Proxy"
 
 
  Note: You can use virtual machine called "Bike" that by Hack the Box
