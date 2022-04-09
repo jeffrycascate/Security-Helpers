@@ -43,7 +43,5 @@ And inside node add following line:
 
 &lt;remove name="X-Powered-By"/&gt;
 
-
-
-
-[Reference](https://www.ibm.com/support/pages/disabling-iis-web-banner-andother-iis-headers)
+## Reference ## 
+(https://www.ibm.com/support/pages/disabling-iis-web-banner-andother-iis-headers)
