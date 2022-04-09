@@ -7,4 +7,4 @@ Index
 | Thems |  |
 | ------------- | ------------- |
 | Payloader  | ReadMe [here](PayLoaders/README.md)  |
-| Remediations  | <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a> |
+| Remediations  | <a href="url"><img src="https://github.com/jeffrycascate/Security-Helpers/blob/main/Remediations/Remediation.png" align="left" height="32" width="34" ></a> |
