@@ -29,7 +29,21 @@ No exist requirement of the exploitation
 ## Mitigation ## 
 
 Change settings of the web server for not divulge that information of the used version.
+In the case 
 
 ## Steps ## 
+
+In case of the tecnologic as "Microsoft" that use IIS and ASP.Net use one file  named "web.config", located usually in the root folder thi App,  this is file stay in format "xml", so inside you see one series of the "nodes" , we moust find the following nodes:
+
+1. "system.webServer"
+2. "httpProtocol"
+3. "customHeaders"
+
+And inside node add following line:
+
+"<remove name="X-Powered-By"/>" 
+
+
+
 
 [Reference](https://www.ibm.com/support/pages/disabling-iis-web-banner-andother-iis-headers)
