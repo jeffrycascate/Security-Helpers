@@ -19,6 +19,9 @@ During analysis was possible determine the software version of the server web us
 | Internet Information Services (IIS) |
 | ASP.Net .Net Framework, lower that 4.8 | 
 
+## Impact ##
+ The expose of the software version is considered the bad practice the security, as can facilitate the search the vulnerability and settings that may affect the software used
+
 Steps
 
 1. Run BurpSuite.
