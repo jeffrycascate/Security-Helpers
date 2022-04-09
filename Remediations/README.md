@@ -10,13 +10,11 @@ During analysis was possible determine the software version of the server web us
 
 ## Information ###
     
-Exposure of Sensitive System Information to an Unauthorized Control Sphere
-
 [CWE:497 Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.ht)
  
 ## Requirement ###
 
-| Characteristic | Value |
+| Software or library  |
 | ------------- | ------------- |
 | System Operating  | Linux base  |
 | Libraries  | Python, HandleBars  |
