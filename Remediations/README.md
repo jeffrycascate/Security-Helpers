@@ -41,7 +41,7 @@ In case of the tecnologic as "Microsoft" that use IIS and ASP.Net use one file  
 
 And inside node add following line:
 
-&lt;<remove name="X-Powered-By"/>&lt;
+&lt;remove name="X-Powered-By"/&gt;
 
 
 
