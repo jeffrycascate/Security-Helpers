@@ -2,7 +2,7 @@
 
 I will publish one series of remeditions product of one "Ethical Hacking Report", i see interting this theme, this very useful for remeditions of the vulnerabilities, this is process is usual in enterprice, when the client been make "Penetration Testing" over to app and vendor should by compromise to resolve this issues with patch, new politics, update, etc.
 
-# Payloader 01
+# Remediations 01
 
  Description.
 
