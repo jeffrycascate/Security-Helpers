@@ -1,6 +1,6 @@
-# PayLoader Sections.
+# Remediations Sections.
 
-In this sections, i going to talk about payloaders that use or i improve, maybe that very simple but can help to beginner, a introduce in the world to penetration testing.
+I will publish one series of remeditions product of one "Ethical Hacking Report", i see interting this theme, this very useful for remeditions of the vulnerabilities, this is process is usual in enterprice, when the client been make "Penetration Testing" over to app and vendor should by compromise to resolve this issues with patch, new politics, update, etc.
 
 # Payloader 01
 
