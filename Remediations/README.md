@@ -6,7 +6,7 @@ I will publish one series of remeditions product of one "Ethical Hacking Report"
 
 ## Description. ###
 
-    During analysis was possible determine the software version of the server web use that host website, this through of the HTTP Header Request to the server.
+During analysis was possible determine the software version of the server web use that host website, this through of the HTTP Header Request to the server.
 
 ## Information ###
     
