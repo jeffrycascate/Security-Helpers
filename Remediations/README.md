@@ -6,8 +6,12 @@ I will publish one series of remeditions product of one "Ethical Hacking Report"
 
  Description.
 
- This is "payloader" create reverse shell in base that concept called "Server Side Template Injection" and this use adding named "HandleBars", that use send command by terminal, with use "nc" that catch command of return.
+    During analysis was possible determine the software version of the server web use that host website, this through of the HTTP Header Request to the server.
 
+ Information
+    
+    Exposure of Sensitive System Information to an Unauthorized Control Sphere 
+    [CWE:497 Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.ht)
  Requirement
 
 | Characteristic | Value |
