@@ -32,4 +32,4 @@ Change settings of the web server for not divulge that information of the used v
 
 ## Steps ## 
 
-[Reference] (https://www.ibm.com/support/pages/disabling-iis-web-banner-andother-iis-headers)
+[Reference](https://www.ibm.com/support/pages/disabling-iis-web-banner-andother-iis-headers)
