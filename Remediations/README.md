@@ -10,7 +10,8 @@ I will publish one series of remeditions product of one "Ethical Hacking Report"
 
  Information
     
-Exposure of Sensitive System Information to an Unauthorized Control Sphere 
+Exposure of Sensitive System Information to an Unauthorized Control Sphere
+ 
 [CWE:497 Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.ht)
  
  Requirement
