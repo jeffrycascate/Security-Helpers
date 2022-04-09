@@ -4,14 +4,14 @@ I will publish one series of remeditions product of one "Ethical Hacking Report"
 
 # Remediations 01
 
- Description.
+ #Description.
 
     During analysis was possible determine the software version of the server web use that host website, this through of the HTTP Header Request to the server.
 
- Information
+ #Information
     
 Exposure of Sensitive System Information to an Unauthorized Control Sphere
- 
+
 [CWE:497 Exposure of Sensitive System Information to an Unauthorized Control Sphere](https://cwe.mitre.org/data/definitions/497.ht)
  
  Requirement
