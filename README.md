@@ -7,3 +7,4 @@ Index
 | Thems |  |
 | ------------- | ------------- |
 | Payloader  | ReadMe [here](PayLoaders/README.md)  |
+| Remediations  | <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a> |
