@@ -14,11 +14,10 @@ During analysis was possible determine the software version of the server web us
  
 ## Requirement ###
 
-| Software or library  |
-| ------------- | ------------- |
-| System Operating  | Linux base  |
-| Libraries  | Python, HandleBars  |
-| Software  |  BurpSuite   |
+| Software or library |
+| ------------- |
+| Internet Information Services (IIS) |
+| ASP.Net .Net Framework, lower that 4.8 | 
 
 Steps
 
